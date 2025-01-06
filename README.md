@@ -78,7 +78,6 @@ The system extracts the following entity types:
 
 ### NER Example
 
-```mermaid
 graph LR
     A[Start] --> B[Text Input];
     B --> C[NER Analysis];
