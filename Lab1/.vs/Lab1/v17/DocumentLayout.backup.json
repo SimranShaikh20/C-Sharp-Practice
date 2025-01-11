@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|c:\\users\\admin\\source\\repos\\lab1\\seriesnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|solutionrelative:seriesnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|c:\\users\\admin\\source\\repos\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|c:\\users\\admin\\source\\repos\\lab1\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|solutionrelative:triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|c:\\users\\admin\\source\\repos\\lab1\\ntermnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F653863-2ADF-4A31-B1FE-6B7CEA64F12E}|Lab1.csproj|solutionrelative:ntermnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Triangle.cs",
+              "RelativeDocumentMoniker": "Triangle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Triangle.cs",
+              "RelativeToolTip": "Triangle.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:14:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NTermNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\NTermNumber.cs",
+              "RelativeDocumentMoniker": "NTermNumber.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\NTermNumber.cs",
+              "RelativeToolTip": "NTermNumber.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:26:04.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeriesNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\SeriesNumber.cs",
+              "RelativeDocumentMoniker": "SeriesNumber.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\SeriesNumber.cs",
+              "RelativeToolTip": "SeriesNumber.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:21:02.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Lab1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T06:11:13.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
