@@ -32,7 +32,20 @@ Both payment methods are handled using an interface called `IPaymentSystem`, and
 4. **ServiceType Class**:
    - Prompts the user to choose between online payment or cash payment.
 
-   
+### How Interface is Implemented
+
+In C#, an **interface** defines the contract that any class implementing the interface must follow. Here's how interfaces are used in the project:
+
+1. **Defining the Interface**:  
+   The `IPaymentSystem` interface defines the methods `ProcessPayment()` and `GetData()`, as well as the `amount` property.
+
+   ```csharp
+   public interface IPaymentSystem
+   {
+       void ProcessPayment();   // Method to process payment
+       void GetData();          // Method to get the amount for payment
+       double amount { get; set; } // Property to hold the payment amount
+   }   
 
 ## Technologies Used
 
