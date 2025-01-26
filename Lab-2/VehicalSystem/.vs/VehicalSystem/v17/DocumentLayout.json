@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\lanvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:lanvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\watervehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:watervehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:vehical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|c:\\users\\admin\\source\\repos\\vehicalsystem\\airvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9253A517-59AD-4368-8903-EF497AC62236}|VehicalSystem.csproj|solutionrelative:airvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Extension.cs",
+              "RelativeDocumentMoniker": "Extension.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Extension.cs*",
+              "RelativeToolTip": "Extension.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:32:37.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\LanVehicle.cs",
+              "RelativeDocumentMoniker": "LanVehicle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\LanVehicle.cs*",
+              "RelativeToolTip": "LanVehicle.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:32:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WaterVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\WaterVehicle.cs",
+              "RelativeDocumentMoniker": "WaterVehicle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\WaterVehicle.cs*",
+              "RelativeToolTip": "WaterVehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:31:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AirVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\AirVehicle.cs",
+              "RelativeDocumentMoniker": "AirVehicle.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\AirVehicle.cs",
+              "RelativeToolTip": "AirVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T10:30:34.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehical.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Vehical.cs",
+              "RelativeDocumentMoniker": "Vehical.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Vehical.cs",
+              "RelativeToolTip": "Vehical.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:32:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\VehicalSystem\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:31:10.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

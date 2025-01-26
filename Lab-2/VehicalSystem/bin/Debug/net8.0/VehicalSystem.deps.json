@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VehicalSystem/1.0.0": {
+        "runtime": {
+          "VehicalSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VehicalSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\VehicalSystem\bin\Debug\net8.0\VehicalSystem.exe
+C:\Users\Admin\source\repos\VehicalSystem\bin\Debug\net8.0\VehicalSystem.deps.json
+C:\Users\Admin\source\repos\VehicalSystem\bin\Debug\net8.0\VehicalSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\VehicalSystem\bin\Debug\net8.0\VehicalSystem.dll
+C:\Users\Admin\source\repos\VehicalSystem\bin\Debug\net8.0\VehicalSystem.pdb
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.dll
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\refint\VehicalSystem.dll
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.pdb
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\VehicalSystem.genruntimeconfig.cache
+C:\Users\Admin\source\repos\VehicalSystem\obj\Debug\net8.0\ref\VehicalSystem.dll
