@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\TaxCalculatorSystem\bin\Debug\net8.0\TaxCalculatorSystem.exe
+C:\Users\Admin\source\repos\TaxCalculatorSystem\bin\Debug\net8.0\TaxCalculatorSystem.deps.json
+C:\Users\Admin\source\repos\TaxCalculatorSystem\bin\Debug\net8.0\TaxCalculatorSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\TaxCalculatorSystem\bin\Debug\net8.0\TaxCalculatorSystem.dll
+C:\Users\Admin\source\repos\TaxCalculatorSystem\bin\Debug\net8.0\TaxCalculatorSystem.pdb
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.dll
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\refint\TaxCalculatorSystem.dll
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.pdb
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\TaxCalculatorSystem.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TaxCalculatorSystem\obj\Debug\net8.0\ref\TaxCalculatorSystem.dll
