@@ -17,9 +17,4 @@
 
 ---
 
-## 🛠️ Future Enhancements
-- Add GUI support.
-- Include more complex tax rules.
-- Support multiple users and persistent storage.
-
 🚀 **Happy Coding!**
